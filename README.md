@@ -14,7 +14,7 @@
 
 ## How to become member? 🎓 
 
--   Join Bauddhik-Geeks Discord Server [here](https://discord.gg/atzZYdNMDF)
+-   Join CodeBooter Discord Server [here](https://discord.gg/VFAKJ3Yu)
 -   Create issue on this repo using the issue template
 -   Add yourself [here](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/Members.md) 👈
 -   For more detail click 👉 [how_to_become_member](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/blob/main/How_to_become_member.md)
