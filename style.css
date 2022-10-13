@@ -8127,14 +8127,14 @@ h4.widget-title {
     border-radius: 10px;
     outline: none !important;
     border: none;
-    background-color: #04a582;
+    background-color: #42BBE7;
     margin-right: 10px;
     transition: 0.2s;
 }
 
 .main-sc-btn:hover {
     cursor: pointer;
-    box-shadow: 0px 0px 20px 0px #fbbd17;
+    box-shadow: 0px 0px 40px 0px #ffffff;
 }
 
 
